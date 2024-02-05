@@ -1,0 +1,23 @@
+/* Custom theme */
+:root {
+  /* Primary color */
+  --md-primary-fg-color:        #FFEC00;
+  --md-primary-fg-color--light: #FFEC00;
+  --md-primary-fg-color--dark:  #FFEC00;
+  --md-primary-bg-color:        #000000;
+  --md-primary-bg-color--light: #000000;
+
+  /* Accent color */
+  --md-accent-fg-color:         #dbc2fa;
+}
+
+[data-md-color-scheme="slate"] {
+  /* Background color */
+  --md-hue: 247deg;
+}
+
+/* Admonition font size */ 
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 16px;
+}
