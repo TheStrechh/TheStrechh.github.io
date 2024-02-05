@@ -1,0 +1,39 @@
+site_name: Carlos Arriaga
+repo_url: https://github.com/TheStrechh/TheStrechh.github.io
+edit_uri: ""
+
+# Repository
+repo_name: TheStrechh/TheStrechh.github.io
+repo_url: https://github.com/TheStrechh/TheStrechh.github.io
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+theme:
+  name: material
+  favicon: images/favicon.png
+  logo: images/logo.png
+
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+
+  features:
+    navigation.tabs
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Getting started: 'index.md'
+  - Download links: 'downloads.md'
+  - Troubleshooting: 'troubleshooting.md'
