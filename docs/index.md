@@ -7,7 +7,7 @@ hide:
 
 Greetings and welcome!
 
-You probably got redirected here from my XDA threads or Telegram posts regarding the devices maintained by me:
+You probably got redirected here from my XDA threads or Telegram posts regarding the devices maintained by me.
 
 ### Hi, Welcome here :D
 #### I'm Carlos Arriaga `(TheStrechh)`
